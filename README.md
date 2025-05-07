@@ -1,6 +1,3 @@
-Here's a **cleaned-up and professional** version of your README for the **Betelgeuse Evolution AI Simulator**, with corrected formatting, grammar, and structure:
-
----
 
 # 🌟 Betelgeuse Evolution AI Simulator
 
@@ -200,8 +197,4 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 * **v1.0.0** – Initial release *(unreleased on GitHub)*
 * **v1.1.0** – Added AI prediction module *(unreleased)*
 * **v1.2.0** – Improved visualizations *(unreleased)*
-* **v1.3.0** – Performance optimization *(unreleased)*
-
----
-
-Let me know if you want a Markdown badge set (like Python version, license, etc.) or a contributors section added!
+* **v1.3.0** – Performance optimization *cuurent*
