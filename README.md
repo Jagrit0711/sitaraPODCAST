@@ -197,4 +197,4 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 * **v1.0.0** – Initial release *(unreleased on GitHub)*
 * **v1.1.0** – Added AI prediction module *(unreleased)*
 * **v1.2.0** – Improved visualizations *(unreleased)*
-* **v1.3.0** – Performance optimization *cuurent*
+* **v1.3.0** – Performance optimization (*cuurent*)
