@@ -133,10 +133,7 @@ python src/main.py
 
 ## 🎥 Recording Features
 
-* High-quality video capture
 * Automatic parameter logging
-* MP4, AVI, and more formats supported
-* Custom duration and frame rate options
 
 ---
 
@@ -171,8 +168,7 @@ python src/main.py
 
 * Complete project overview
 * AI architecture explanation
-* Performance benchmarks
-* API references
+  
 
 ---
 
