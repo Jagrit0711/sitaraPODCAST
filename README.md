@@ -168,6 +168,19 @@ python src/main.py
   
 
 ---
+### 💡 AI Model Acceleration
+- 🧠 Uses **Intel® oneAPI Deep Neural Network Library (oneDNN)** (if available)
+- 🔌 Supports **OpenVINO™ Toolkit** for hardware-accelerated inference
+- 📦 Optional: Integrate `intel-openvino` for blazing-fast AI predictions on supported Intel GPUs/VPUs
+
+### ⚙️ Technical AI Stack
+
+| Component              | Framework      | Description                                      |
+|------------------------|----------------|--------------------------------------------------|
+| AI Core Engine         | PyTorch        | Trained on stellar evolution data                |
+| Optimization Layer     | Intel oneDNN   | Fast low-level ops for Intel CPUs                |
+| Deployment Accelerator | OpenVINO™      | Inference acceleration on Intel hardware         |
+| Visualization          | Pygame + NumPy | Real-time graphs & star state rendering          |
 
 ## 📝 License
 
